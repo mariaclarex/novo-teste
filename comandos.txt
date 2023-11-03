@@ -1,0 +1,4 @@
+git checkout -b nome-da-branch
+git init
+git status
+git add
